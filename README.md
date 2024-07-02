@@ -24,10 +24,10 @@ Whale Strategy is committed to professionalism, transparency, and compliance in 
     <div style="flex: 1;">
       <h3>Dillon / Chairman</h3>
       <ul>
-        <li>鯨訊加密顧問股份有限公司  董事長</li>
-        <li>士訊科技有限公司 總經理</li>
-        <li>Crypto Yetaverse 創辦人</li>
-        <li>Foorich DAO 創辦人</li>
+        <li>Chairman, 鯨訊加密顧問股份有限公司</li>
+        <li>General Manager, 士訊科技有限公司 總經理</li>
+        <li>Founder, Crypto Yetaverse</li>
+        <li>Founder, Foorich DAO</li>
       </ul>
     </div>
     
@@ -41,10 +41,10 @@ Whale Strategy is committed to professionalism, transparency, and compliance in 
     <div style="flex: 1;">
       <h3>Joyce / COO</h3>
       <ul>
-        <li>鯨訊加密顧問股份有限公司   營運長</li>
-        <li>硯田文化科技有限公司   顧問</li>
-        <li>Crypto NGO   特助</li>
-        <li>凱捷管理諮詢公司   高級經理</li>
+        <li>COO, 鯨訊加密顧問股份有限公司</li>
+        <li>Consultant, 硯田文化科技有限公司</li>
+        <li>Special Assistant, Crypto NGO</li>
+        <li>Secior Manager, 凱捷管理諮詢公司</li>
       </ul>
     </div>
     
@@ -58,12 +58,12 @@ Whale Strategy is committed to professionalism, transparency, and compliance in 
     <div style="flex: 1;">
       <h3>Happy / AEO</h3>
       <ul>
-        <li>N3 Artiverse Pty Linited   台灣顧問</li>
-        <li>春隆創藝   董事長</li>
-        <li>Vulpes   台灣顧問</li>
-        <li>尚玄國際   執行長</li>
-        <li>創力資通   創意總監</li>
-        <li>葉貝創意行銷   執行長</li>
+        <li>Taiwan Consultant, N3 Artiverse Pty Limited</li>
+        <li>chairman, 春隆創藝</li>
+        <li>Taiwan Consultant, Vulpes</li>
+        <li>CEO, 尚玄國際</li>
+        <li>Creative Director, 創力資通</li>
+        <li>CEO, 葉貝創意行銷</li>
       </ul>
     </div>
    
@@ -77,10 +77,10 @@ Whale Strategy is committed to professionalism, transparency, and compliance in 
     <div style="flex: 1;">
       <h3>Ken / CEO</h3>
       <ul>
-        <li>N3 Artiverse Pty Limited   創始人</li>
-        <li>AsiaTop Loyalty Limited   技術長, 技術長</li>
-        <li>ReverseDao   副執行長, 技術長</li>
-        <li>Vulpes   創始人</li>
+        <li>Founder, N3 Artiverse Pty Limited</li>
+        <li>CTO, AsiaTop Loyalty Limited</li>
+        <li>Deputy CEO & CTO, ReverseDao</li>
+        <li>Founder, Vulpes</li>
       </ul>
     </div>
   </div>
