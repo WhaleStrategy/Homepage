@@ -8,6 +8,8 @@
 ## About Us
 
 Whale Strategy is committed to professionalism, transparency, and compliance in the cryptocurrency sector. We aim to advance blockchain technology and promote sound investment principles. Our mission is to be your trusted partner, helping you effectively manage digital assets to meet your financial goals.
+<br>
+我們以專業、透明、合規為信念，努力推動區塊鏈技術的發展，並提倡正確的投資觀念。我們的目標是成為您在加密貨幣領域的可信伙伴，幫助您更有效地配置數位資產，實現財務目標。
 
 <!-- Leadership Team Section -->
 ## Leadership Team
@@ -90,9 +92,9 @@ Whale Strategy is committed to professionalism, transparency, and compliance in 
 
 <div style="background-color: #0F1E34; color: #FFFFFF; padding: 20px; border-radius: 8px;">
   <ul>
-    <li><strong>Stable Profitability:</strong> We ensure stable profits through superior risk management, well-planned trading strategies, and wise capital allocation, all monitored by our algorithmic systems.</li>
-    <li><strong>Transparency:</strong> We offer clear trading targets with data accessible on third-party platforms for verification.</li>
-    <li><strong>Compliance:</strong> Our expert analysis team has extensive experience in cryptocurrencies, stocks, options, and forex, guided by top-level traders.</li>
+    <li><strong>Stable Profitability:</strong> We ensure stable profits through superior risk management, well-planned trading strategies, and wise capital allocation, all monitored by our algorithmic systems. <br> <strong>獲利穩定:</strong>以優越的風險管理、精心策劃的交易方案、明智的資金配置，透過程式監控進出場時機，量化勝率較高的交易習慣，確保穩定可持續的程式交易獲利。</li>
+    <li><strong>Transparency:</strong> We offer clear trading targets with data accessible on third-party platforms for verification. <br> <strong>公開透明:</strong> 交易標的明確，提供第三方數據平台查閱。</li>
+    <li><strong>Compliance:</strong> Our expert analysis team has extensive experience in cryptocurrencies, stocks, options, and forex, guided by top-level traders. <br> <strong>市場相容性高:</strong> 堅強的分析團隊陣容，不只有加密貨幣的經驗，股票、期權、外匯皆有千萬級別操盤手指導策略開發。</li>
   </ul>
 </div>
 
