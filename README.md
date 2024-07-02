@@ -81,9 +81,6 @@ Whale Strategy is committed to professionalism, transparency, and compliance in 
         <li>Vulpes   創始人</li>
       </ul>
     </div>
-    <div style="flex-shrink: 0; margin-left: 20px;">
-      <img src="https://github.com/WhaleStrategy/Homepage/assets/174404765/e08ac071-f572-4b81-8930-a12ee72564c1" width="200" style="border-radius: 50%;">
-    </div>
   </div>
 
 </div>
