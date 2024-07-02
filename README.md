@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div style="background-color:  #0F1E34; padding: 20px; text-align: center;">
-  <img align = "" src="https://github.com/WhaleStrategy/Homepage/assets/174404765/6414aa4c-d1cb-4e00-b1dd-1f812d2e3639)" width="150">
+  <img align = "" src="https://github.com/WhaleStrategy/Homepage/assets/174404765/6414aa4c-d1cb-4e00-b1dd-1f812d2e3639" width="250">
   <h1 style="color: #FFFFFF;">Welcome to Whale Strategy</h1>
 </div>
 
@@ -14,7 +14,7 @@ Whale Strategy is committed to professionalism, transparency, and compliance in 
 <!-- Leadership Team Section -->
 ## Leadership Team
 
-<div style="background-color: #F8F9FA; padding: 20px; border-radius: 8px;">
+<div style="background-color: #F8F9FA; padding: 20px; border-radius: 85px;">
 
   <!-- Dillon Section -->
   <div style="flex-shrink: 0; margin-left: 20px;">
