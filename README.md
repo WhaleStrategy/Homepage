@@ -92,7 +92,7 @@ Whale Strategy is committed to professionalism, transparency, and compliance in 
 
 <div style="background-color: #0F1E34; color: #FFFFFF; padding: 20px; border-radius: 8px;">
   <ul>
-    <li><strong>Stable Profitability:</strong> We ensure stable profits through superior risk management, well-planned trading strategies, and wise capital allocation, all monitored by our algorithmic systems. <br> <strong>獲利穩定:</strong>以優越的風險管理、精心策劃的交易方案、明智的資金配置，透過程式監控進出場時機，量化勝率較高的交易習慣，確保穩定可持續的程式交易獲利。</li>
+    <li><strong>Stable Profitability:</strong> We ensure stable profits through superior risk management, well-planned trading strategies, and wise capital allocation, all monitored by our algorithmic systems. <br> <strong>獲利穩定:</strong> 以優越的風險管理、精心策劃的交易方案、明智的資金配置，透過程式監控進出場時機，量化勝率較高的交易習慣，確保穩定可持續的程式交易獲利。</li>
     <li><strong>Transparency:</strong> We offer clear trading targets with data accessible on third-party platforms for verification. <br> <strong>公開透明:</strong> 交易標的明確，提供第三方數據平台查閱。</li>
     <li><strong>Compliance:</strong> Our expert analysis team has extensive experience in cryptocurrencies, stocks, options, and forex, guided by top-level traders. <br> <strong>市場相容性高:</strong> 堅強的分析團隊陣容，不只有加密貨幣的經驗，股票、期權、外匯皆有千萬級別操盤手指導策略開發。</li>
   </ul>
