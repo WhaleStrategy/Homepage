@@ -99,6 +99,6 @@ Whale Strategy is committed to professionalism, transparency, and compliance in 
 
 <!-- Footer Section -->
 <div style="background-color: #FFFFFF; padding: 20px; text-align: center;">
-  <p>Follow us on <a href="https://twitter.com/WhaleStrategy" style="color: #0F1E34; text-decoration: none;">Twitter</a> | <a href="https://www.linkedin.com/company/whale-strategy" style="color: #0F1E34; text-decoration: none;">LinkedIn</a></p>
+  <p>Follow us on <a href="https://www.facebook.com/whalestrategy" style="color: #0F1E34; text-decoration: none;">Facebook</a> | <a href="https://www.linkedin.com/company/whale-strategy" style="color: #0F1E34; text-decoration: none;">LinkedIn</a></p>
   <p>© 2024 Whale Strategy Cryptocurrency Advisors Co., Ltd. All rights reserved.</p>
 </div>
