@@ -27,7 +27,7 @@ Whale Strategy is committed to professionalism, transparency, and compliance in 
         <li>Chairman, 鯨訊加密顧問股份有限公司</li>
         <li>General Manager, 士訊科技有限公司 總經理</li>
         <li>Founder, Crypto Yetaverse</li>
-        <li>Founder, Foorich DAO</li>
+        <li>Founder, Floorich DAO</li>
       </ul>
     </div>
     
