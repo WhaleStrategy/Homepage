@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div style="background-color:  #0F1E34; padding: 20px; text-align: center;">
-  <img align = "" src="https://github.com/WhaleStrategy/Homepage/assets/174404765/734bbb4b-2c1c-47dc-b89c-c8f5bda68982" width="250">
+  <img align = "" src="https://github.com/user-attachments/assets/812c0035-1b01-45a2-8320-eaaffaf0afac" width="400">
   <h1 style="color: #FFFFFF;">Welcome to Whale Strategy</h1>
 </div>
 
