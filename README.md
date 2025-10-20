@@ -32,7 +32,7 @@ We believe in professionalism, transparency, and compliance, striving to promote
 
   <!-- Aaron Section -->
   <div style="flex-shrink: 0; margin-left: 20px;">
-      <img align="right" src="https://github.com/user-attachments/assets/db653378-4bef-4b7c-90e9-4fdec4a6115a" width="200" top="10" style="border-radius: 50%;">
+      <img align="right" src="https://github.com/user-attachments/assets/db653378-4bef-4b7c-90e9-4fdec4a6115a" width="200" top="10px" style="border-radius: 50%;">
     </div>
   <div style="display: flex; align-items: center; margin-bottom: 20px; padding: 20px; background-color: #FFFFFF; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <div style="flex: 1;">
