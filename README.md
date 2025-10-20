@@ -29,7 +29,7 @@ We believe in professionalism, transparency, and compliance, striving to promote
     </div>
     
   </div>
-
+  <br>
  <!-- Aaron Section --> 
  <div style="flex-shrink: 0; margin-left: 20px;"> 
    <img align="right" src="https://github.com/user-attachments/assets/db653378-4bef-4b7c-90e9-4fdec4a6115a" width="200" style="border-radius: 50%;"> 
@@ -46,6 +46,8 @@ We believe in professionalism, transparency, and compliance, striving to promote
      </ul> 
    </div> 
  </div>
+
+ <br>
  
   <!-- Jemmy Section -->
    <div style="flex-shrink: 0; margin-left: 20px;">
@@ -64,7 +66,7 @@ We believe in professionalism, transparency, and compliance, striving to promote
     </div>
    
   </div>
-
+<br>
   <!-- Adarsh Section -->
   <div style="flex-shrink: 0; margin-left: 20px;">
       <img align="right" src="https://github.com/user-attachments/assets/6292dd8a-d794-4495-93ab-5ab54cf5a1ff" width="200" style="border-radius: 50%;">
