@@ -67,23 +67,6 @@ We believe in professionalism, transparency, and compliance, striving to promote
    
   </div>
 
-  <!-- Randy Section -->
-  <div style="flex-shrink: 0; margin-left: 20px;">
-      <img align="right" src="https://github.com/user-attachments/assets/aa4a465a-3935-4c18-a9b2-b7c799b37dff" width="200" style="border-radius: 50%;">
-    </div>
-  <div style="display: flex; align-items: center; padding: 20px; background-color: #FFFFFF; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <div style="flex: 1;">
-      <h3>Randy / Chief Marketing Officer</h3>
-      <ul>
-        <h4>Experience</h4>
-        <li>COO, Armattan Co., Ltd.</li>
-        <li>Technician / Sales, TC TRON</li>
-      </ul>
-    </div>
-  </div>
-
-</div>
-
   <!-- Adarsh Section -->
   <div style="flex-shrink: 0; margin-left: 20px;">
       <img align="right" src="https://github.com/user-attachments/assets/6292dd8a-d794-4495-93ab-5ab54cf5a1ff" width="200" style="border-radius: 50%;">
