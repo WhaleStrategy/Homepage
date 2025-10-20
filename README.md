@@ -31,28 +31,30 @@ We believe in professionalism, transparency, and compliance, striving to promote
   </div>
 
  <!-- Aaron Section -->
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; padding: 20px; background-color: #FFFFFF; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: fit-content; margin-left: auto; margin-right: auto;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding: 20px; background-color: #FFFFFF; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
 
-  <!-- Centered Image -->
-  <div style="margin-bottom: 15px;">
-    <img src="https://github.com/user-attachments/assets/db653378-4bef-4b7c-90e9-4fdec4a6115a" width="200" style="border-radius: 50%;">
-  </div>
-
-  <!-- Centered Text -->
-  <div style="text-align: center;">
+  <!-- Left: Text -->
+  <div style="flex: 1; text-align: left;">
     <h3>Aaron / Chief Operating Officer</h3>
     <h4>Current Position</h4>
-    <ul style="list-style-type: none; padding: 0;">
+    <ul>
       <li>Chief Operating Officer, ARKkers International</li>
     </ul>
     <h4>Experience</h4>
-    <ul style="list-style-type: none; padding: 0;">
+    <ul>
       <li>Executive Assistant, Tri Ocean Industrial Co., Ltd.</li>
       <li>Executive Assistant, SHANGTING Construction</li>
       <li>EMBA, University of Liège, Belgium</li>
     </ul>
   </div>
+
+  <!-- Right: Image (centered vertically) -->
+  <div style="flex-shrink: 0; display: flex; justify-content: center; align-items: center; margin-left: 20px;">
+    <img src="https://github.com/user-attachments/assets/db653378-4bef-4b7c-90e9-4fdec4a6115a" width="200" style="border-radius: 50%;">
+  </div>
+
 </div>
+
 
   <!-- Jemmy Section -->
    <div style="flex-shrink: 0; margin-left: 20px;">
