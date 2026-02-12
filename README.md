@@ -30,22 +30,7 @@ We believe in professionalism, transparency, and compliance, striving to promote
     
   </div>
   <br>
- <!-- Aaron Section --> 
- <div style="flex-shrink: 0; margin-left: 20px;"> 
-   <img align="right" src="https://github.com/user-attachments/assets/db653378-4bef-4b7c-90e9-4fdec4a6115a" width="200" style="border-radius: 50%;"> 
- </div> 
- <div style="display: flex; align-items: center; margin-bottom: 20px; padding: 20px; background-color: #FFFFFF; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);"> 
-   <div style="flex: 1;"> 
-     <h3>Aaron / Chief Operating Officer</h3> 
-     <ul> <h4>Current Position</h4> 
-       <li>Chief Operating Officer, ARKkers International</li> 
-       <h4>Experience</h4> 
-       <li>Executive Assistant, Tri Ocean Industrial Co., Ltd.</li> 
-       <li>Executive Assistant, SHANGTING Construction</li> 
-       <li>EMBA, University of Liège, Belgium</li> 
-     </ul> 
-   </div> 
- </div>
+
 
  <br>
  
